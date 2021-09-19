@@ -1,5 +1,5 @@
 const config = {
-    "TOKEN" : "Entre tle token du bot.",
+    "TOKEN" : "Entre le token du bot.",
     "PREFIX" : "Choisis ton préfix",
 }
 module.exports = config;
